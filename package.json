@@ -1,0 +1,7 @@
+{
+    "name": "framework-pico-sdk",
+    "description": "Framework for Raspberry Pi Pico SDK",
+    "url": "https://github.com/dacoolinus/framework-pico-sdk",
+    "system": "*",
+    "version": "0.0.1"
+}
