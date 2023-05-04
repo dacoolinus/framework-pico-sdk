@@ -3,5 +3,18 @@
     "description": "Framework for Raspberry Pi Pico SDK",
     "url": "https://github.com/dacoolinus/framework-pico-sdk",
     "system": "*",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dacoolinus/framework-pico-sdk.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Collin Brown",
+            "url": "https://github.com/dacoolinus",
+            "maintainer": true
+        }
+    ],
+    "license": "Apache-2.0"
 }
